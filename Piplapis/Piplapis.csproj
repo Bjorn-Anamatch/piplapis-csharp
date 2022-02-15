@@ -4,13 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Pipl.APIs</RootNamespace>
     <AssemblyName>piplclient</AssemblyName>
-    <Version>5.9.1</Version>
+    <Version>6.0.0</Version>
     <PackageLicenseExpression>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseExpression>
     <PackageId>piplapis-csharp</PackageId>
-    <Authors>Pipl</Authors>
-    <Company>Pipl</Company>
+    <Authors>Bjorn Bailleul</Authors>
+    <Company>Anamatch</Company>
     <Product>piplapis-csharp</Product>
-    <Copyright>Copyright © Pipl 2016</Copyright>
+    <Copyright>Copyright © Anamatch 2022</Copyright>
     <PackageProjectUrl>http://pipl.com/dev</PackageProjectUrl>
     <PackageReleaseNotes>Switch to .net standard</PackageReleaseNotes>
   </PropertyGroup>
